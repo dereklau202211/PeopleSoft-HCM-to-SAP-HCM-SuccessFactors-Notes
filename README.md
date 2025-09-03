@@ -14,9 +14,9 @@ Structure:
 	•	/General_Concepts → Cross-module concepts, glossary, best practices.
  Format:
  Each note will follow a simple structure:
- ## PeopleSoft Concept
- ## SuccessFactors Concept
- ## Key Differences
- ## Example
- Contribution
+ PeopleSoft Concept
+   SuccessFactors Concept
+   Key Differences
+   Example
+   Contribution
  This repo starts as a personal study project, but contributions / discussions are welcome in the future.
